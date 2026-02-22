@@ -1,5 +1,7 @@
 # Twister Beat Indicator
 
+> ⚠️ **Status:** This device is currently in active development (WIP). Features and behavior may change.
+
 ## Overview
 Twister Beat Indicator is a Max for Live MIDI device for the MIDI Fighter Twister. It mirrors Ableton Live's current bar/beat position on the Twister LEDs so you can track timing at a glance during performance.
 
