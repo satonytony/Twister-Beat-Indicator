@@ -1,5 +1,10 @@
 # Twister Beat Indicator
 
+<p align="center">
+  <img src="images/TBI_image.jpg" width="400">
+</p>
+
+
 > ⚠️ **Status:** This device is currently in active development (WIP). Features and behavior may change.
 
 ## Overview
